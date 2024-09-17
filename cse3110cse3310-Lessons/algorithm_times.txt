@@ -1,0 +1,12 @@
+# algorithm_times.txt
+
+linear search(1000000) ---> 0.26852019999932963
+binary search(1000000) ---> 2.06e^-5
+bubble sort(10000) ----> 4.4466
+selection sort(10000) -----> 2.8107
+insertion sort(10000) -----> 1.869
+recursive linear search (1000) ----> 0.003847
+recursive binary search(10000000) ---- > 0.00881893
+merge sort (10000) --- > 0.0342676
+quick sort(10000) ----> 0.023937
+heap sort (10000) ----> 0.02602
